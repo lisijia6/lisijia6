@@ -1,10 +1,8 @@
-## Nancy's GitHub Profile 👋
-
 <!--
 **lisijia6/lisijia6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About Me
+## About Me 👋
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- ![](https://komarev.com/ghpvc/?username=lisijia6) -->
 
